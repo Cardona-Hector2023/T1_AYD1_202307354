@@ -11,7 +11,7 @@ def get_cancion_favorita():
     return {
         "nombre": "Hector Antonio Cardona Cos",
         "carnet": "202307354",
-        "cancion_favorita": "Sweet Nothing"
+        "cancion_favorita": "18 Months",
         }
 
 if __name__ == "__main__":
